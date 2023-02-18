@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Džilit</h1>
-<h3 align="center">A passionate full stack web developer from Bosnia.</h3>
-
-- 🔭 I’m currently working on [queermed](www.queermed.info)
-
-- 🌱 I’m currently learning **Ruby on Rails, JS, SQL**
+<h3 align="center">A passionate frontEnd developer from Bosnia.</h3>
 
 - 📫 How to reach me **igor.dzilit@gmail.com**
-
-- ⚡ Fun fact **Huge RF(Roger Federer) fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
